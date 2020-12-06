@@ -13,7 +13,6 @@ module.exports = {
   },
   rules: {
     indent: ['error', 2],
-    semi: [2, 'always'],
-    allowTemplateLiterals: true
+    semi: [2, 'always']
   }
 };
