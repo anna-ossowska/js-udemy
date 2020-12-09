@@ -13,6 +13,7 @@ module.exports = {
   },
   rules: {
     indent: ['error', 2],
-    semi: [2, 'always']
+    semi: [2, 'always'],
+    'space-before-function-paren': 'off'
   }
 };
